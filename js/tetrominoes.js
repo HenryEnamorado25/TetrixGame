@@ -148,3 +148,5 @@ const Z = [
 		[1, 0, 0]
 	]
 ];
+
+export default { I, J, L, O, S, T, Z };
